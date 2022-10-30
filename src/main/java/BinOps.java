@@ -1,3 +1,5 @@
+package main.java;
+
 public class BinOps {
 
     public String sum(String a, String b) {
